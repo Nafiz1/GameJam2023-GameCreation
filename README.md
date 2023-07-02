@@ -28,7 +28,8 @@ Software: Unity
 
 
 #### 2. Submission: 
-TBD
+Please fork this repo and include all submission files. Only forked repos will be evaluated.\
+Submissions will be accepted until 11:59 PM on July 30th.
 
 #### 3. Evaluation Grid: 
 | Criteria           | 2D & 3D Rating |
