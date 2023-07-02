@@ -1,5 +1,11 @@
 # GameJam2023-AssetCreation
 
+#### Details about the event:
+Date: July 24th - July 30th\
+Time: Opens 12:00AM July 24th, submissions will be accepted until 11:59PM July 30th\
+Software: Unity
+
+
 #### 1. Definition: 
 Game creation is about creating a 2D or 3D video game with Unity and will be divided into 2 parts:
 
@@ -15,21 +21,14 @@ This consists of you creating a 3D game. The possibilities for this game are end
 Some examples include: Minecraft, FPS, Super Smash (Including things like Lambton & Erie, the CSS Board members, Chip the Cat or other CSS type themes!)
 
 
-#### Details about the event:
-Date: July 24th - July 30th\
-Time: Opens 12:00AM July 24th, submissions will be accepted until 11:59PM July 30th\
-Software: Unity
-
+#### 2. Submission: 
+Please fork this repo and include all submission files. Only forked repos will be evaluated.\
+Submissions will be accepted until 11:59 PM on July 30th.
 
 #### Submission elements:
    - Any files needed to run your game (Both 2D and 3D, specific naming is not required)
    - A short video walkthrough of your game
    - One document (.pdf) briefly explaining the idea(s) behind your game(s), including any storyline, and anything else you'd like to share!
-
-
-#### 2. Submission: 
-Please fork this repo and include all submission files. Only forked repos will be evaluated.\
-Submissions will be accepted until 11:59 PM on July 30th.
 
 #### 3. Evaluation Grid: 
 | Criteria           | 2D & 3D Rating |
